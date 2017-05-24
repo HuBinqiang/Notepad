@@ -13,7 +13,7 @@ import java.util.List;
 import butterknife.InjectView;
 
 /**
- * Created by lgp on 2015/5/24.
+ * 设置页面
  */
 public class SettingActivity extends BaseActivity{
     @InjectView(R.id.toolbar)
