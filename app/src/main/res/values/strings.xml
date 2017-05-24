@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">小笔记</string>
+    <string name="setting">设置</string>
+    <string name="search">搜索</string>
+    <string name="more">设置</string>
+    <string name="general_settings">基本</string>
+
+    <array name="drawer_content">
+        <item>学习笔记</item>
+        <item>工作笔记</item>
+        <item>其他笔记</item>
+        <item>回收站</item>
+    </array>
+    <string name="note_log_text" formatted="false">%s\u0020:\u0020%s</string>
+    <string name="edit">编辑</string>
+    <string name="move_to_trash">移至回收站</string>
+    <string name="delete_forever">永久删除</string>
+    <string name="right_hand_mode">右手操作模式</string>
+    <string name="right_hand_mode_summary">侧边栏将从右边划开。</string>
+    <string name="sure">确定</string>
+    <string name="cancel">取消</string>
+    <string name="delete_forever_message">是否要永久删除</string>
+    <string name="done">完成</string>
+    <string name="label">题目</string>
+    <string name="note_content">笔记内容</string>
+    <string name="new_note">新的笔记</string>
+    <string name="search_note">搜索笔记</string>
+    <string name="edit_note">编辑笔记</string>
+    <string name="view_note">查看笔记</string>
+    <string name="show_note_history_log_key">show_note_history_log_key</string>
+    <string name="right_hand_mode_key">right_hand_mode_key</string>
+    <string name="move_success">成功移除</string>
+    <string name="recover">恢复</string>
+    <string name="create">创建</string>
+
+    <string name="recycle_bin">回收站</string>
+    <string name="move_to">移回</string>
+
+    <string name="not_save_note_leave_tip">笔记已经发生变化，是否保存后再离开</string>
+    <string name="change_theme">更换主题</string>
+    <string name="change_theme_key">change_theme_key</string>
+    <string name="today" formatted="false">今天\u0020%s</string>
+    <string name="before_day" formatted="false">%d\u0020天前</string>
+    <string name="before_month" formatted="false">%d\u0020个月前</string>
+    <string name="before_year" formatted="false">%d\u0020年前</string>
+
+    <string name="export_sd">导出笔记</string>
+    <string name="import_sd">导入笔记</string>
+    <string name="sync_account_summary">同步云端帐号，待开发。</string>
+    <string name="export_sd_summary">导出到 SD 卡中进行备份，待开发。</string>
+    <string name="import_sd_summary">将备份在 SD 卡中的文件导入进行备份，待开发。</string>
+    <string name="sync_account">同步帐号</string>
+</resources>
